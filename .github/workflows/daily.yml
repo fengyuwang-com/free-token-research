@@ -1,0 +1,27 @@
+name: daily-refresh
+on:
+  schedule:
+    - cron: "30 2,8,14,20 * * *"   # 北京时间 10:30 / 16:30 / 22:30 / 04:30，跟随上游 hub 每6小时的探活节奏
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Aggregate station data
+        run: node scripts/build.mjs
+      - name: Commit snapshot
+        run: |
+          git config user.name "refresh-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if git diff --quiet -- site/data.json; then
+            echo "no changes"; exit 0
+          fi
+          git add site/data.json
+          git commit -m "data: refresh snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

@@ -1,0 +1,541 @@
+{
+  "generatedAt": "2026-09-12T23:00:34.073Z",
+  "hubSources": [
+    {
+      "source": "ai-welfare-hub",
+      "url": "https://github.com/wynx1123/ai-welfare-hub"
+    },
+    {
+      "source": "ai-coding-welfare",
+      "url": "https://github.com/panxunying/ai-coding-welfare"
+    }
+  ],
+  "stations": [
+    {
+      "id": "supxh",
+      "name": "肖恩Ai",
+      "homeUrl": "https://free.supxh.xin",
+      "signupUrl": "https://free.supxh.xin/register?code=FKGTEA",
+      "signup": 5000,
+      "invite": null,
+      "checkin": 2000,
+      "unit": "积分",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub"
+      ],
+      "online": true,
+      "latencyMs": 566,
+      "registerOpen": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:15:31.148Z"
+    },
+    {
+      "id": "docode",
+      "name": "DoCode",
+      "homeUrl": "https://docode.cc",
+      "signupUrl": "https://docode.cc/register?aff=7bWb",
+      "signup": 300,
+      "invite": 60,
+      "checkin": null,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub"
+      ],
+      "online": true,
+      "latencyMs": 778,
+      "registerOpen": true,
+      "checkinEnabled": false,
+      "loginMethods": [
+        "邮箱验证",
+        "邮箱 + 密码"
+      ],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:15:32.078Z"
+    },
+    {
+      "id": "agentrouter",
+      "name": "AgentRouter",
+      "homeUrl": "https://agentrouter.org",
+      "signupUrl": "https://agentrouter.org/register?aff=szt3",
+      "signup": 100,
+      "invite": 50,
+      "checkin": 25,
+      "unit": "$",
+      "recommended": true,
+      "sources": [
+        "ai-welfare-hub",
+        "ai-coding-welfare"
+      ],
+      "online": true,
+      "latencyMs": 228,
+      "registerOpen": null,
+      "checkinEnabled": null,
+      "loginMethods": [
+        "GitHub",
+        "LinuxDO"
+      ],
+      "mirrors": [
+        {
+          "homeUrl": "https://ps.air-outer.com",
+          "online": false
+        }
+      ],
+      "checkedAt": "2026-09-12T20:34:56.246Z"
+    },
+    {
+      "id": "tabitoken",
+      "name": "TaBiAI",
+      "homeUrl": "https://tabitoken.com",
+      "signupUrl": "https://tabitoken.com/sign-up?aff=EQIT",
+      "signup": 100,
+      "invite": 20,
+      "checkin": null,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub",
+        "ai-coding-welfare"
+      ],
+      "online": true,
+      "latencyMs": 132,
+      "registerOpen": true,
+      "checkinEnabled": true,
+      "loginMethods": [
+        "GitHub",
+        "账号密码"
+      ],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:34:52.841Z"
+    },
+    {
+      "id": "kktoken",
+      "name": "KKtoken AI",
+      "homeUrl": "https://kktoken.cc",
+      "signupUrl": "https://kktoken.cc/sign-up?aff=MzG9",
+      "signup": 75,
+      "invite": 25,
+      "checkin": 20,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub",
+        "ai-coding-welfare"
+      ],
+      "online": true,
+      "latencyMs": 830,
+      "registerOpen": true,
+      "checkinEnabled": true,
+      "loginMethods": [
+        "GitHub",
+        "账号密码"
+      ],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:34:51.321Z"
+    },
+    {
+      "id": "anyrouter",
+      "name": "AnyRouter",
+      "homeUrl": "https://anyrouter.top",
+      "signupUrl": "https://anyrouter.top/register?aff=Z24N",
+      "signup": 75,
+      "invite": 50,
+      "checkin": 25,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-coding-welfare"
+      ],
+      "online": true,
+      "latencyMs": 150,
+      "registerOpen": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:34:57.261Z"
+    },
+    {
+      "id": "justdowork",
+      "name": "JustDoWork",
+      "homeUrl": "https://api.justwoker.icu",
+      "signupUrl": "https://api.justwoker.icu/sign-up?aff=VTrz",
+      "signup": 70,
+      "invite": null,
+      "checkin": 22,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub",
+        "ai-coding-welfare"
+      ],
+      "online": true,
+      "latencyMs": 351,
+      "registerOpen": true,
+      "checkinEnabled": true,
+      "loginMethods": [
+        "GitHub",
+        "账号密码"
+      ],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:34:50.855Z"
+    },
+    {
+      "id": "gorouter",
+      "name": "GoRouter",
+      "homeUrl": "https://gorouter.app",
+      "signupUrl": "https://gorouter.app/sign-up?aff=PZDx",
+      "signup": 50,
+      "invite": 20,
+      "checkin": null,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub",
+        "ai-coding-welfare"
+      ],
+      "online": true,
+      "latencyMs": 25,
+      "registerOpen": true,
+      "checkinEnabled": true,
+      "loginMethods": [
+        "GitHub",
+        "账号密码"
+      ],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:34:52.821Z"
+    },
+    {
+      "id": "nofx",
+      "name": "NOFX",
+      "homeUrl": "https://nofx.one/zh-CN",
+      "signupUrl": "https://nofx.one/zh-CN/sign-in?ref=J369GHY4",
+      "signup": 20,
+      "invite": 10,
+      "checkin": 5,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub",
+        "ai-coding-welfare"
+      ],
+      "online": true,
+      "latencyMs": 2340,
+      "registerOpen": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:34:52.843Z"
+    },
+    {
+      "id": "matrix",
+      "name": "Matrix",
+      "homeUrl": "https://matrix.mzsjai.com",
+      "signupUrl": "https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_",
+      "signup": null,
+      "invite": 600,
+      "checkin": null,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub",
+        "ai-coding-welfare"
+      ],
+      "online": true,
+      "latencyMs": 1241,
+      "registerOpen": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:34:51.738Z"
+    },
+    {
+      "id": "seekai",
+      "name": "SeekAI",
+      "homeUrl": "https://seekai.cc",
+      "signupUrl": "https://seekai.cc/sign-up?aff=jVlv",
+      "signup": null,
+      "invite": null,
+      "checkin": null,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub"
+      ],
+      "online": true,
+      "latencyMs": 339,
+      "registerOpen": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:15:31.278Z"
+    },
+    {
+      "id": "vsllm",
+      "name": "维云",
+      "homeUrl": "https://vsllm.com",
+      "signupUrl": "https://vsllm.com/register?aff=Aci9",
+      "signup": null,
+      "invite": null,
+      "checkin": null,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub"
+      ],
+      "online": true,
+      "latencyMs": 168,
+      "registerOpen": null,
+      "checkinEnabled": true,
+      "loginMethods": [
+        "GitHub OAuth",
+        "OIDC"
+      ],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:15:32.003Z"
+    },
+    {
+      "id": "true-sota",
+      "name": "TrueSOTA",
+      "homeUrl": "https://true-sota.com",
+      "signupUrl": "https://true-sota.com/register?aff=8DTJUTUBJNE3",
+      "signup": 0,
+      "invite": 20,
+      "checkin": 0,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub"
+      ],
+      "online": true,
+      "latencyMs": 39,
+      "registerOpen": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:15:32.453Z"
+    },
+    {
+      "id": "hcnsec",
+      "name": "幻城网安",
+      "homeUrl": "https://api.hcnsec.cn",
+      "signupUrl": "https://api.hcnsec.cn/sign-up?aff=zDqY",
+      "signup": null,
+      "invite": null,
+      "checkin": null,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub"
+      ],
+      "online": true,
+      "latencyMs": 1879,
+      "registerOpen": true,
+      "checkinEnabled": true,
+      "loginMethods": [
+        "邮箱验证",
+        "邮箱 + 密码"
+      ],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:15:32.576Z"
+    },
+    {
+      "id": "vyceai",
+      "name": "Vyce AI",
+      "homeUrl": "https://vyceai.com",
+      "signupUrl": "https://vyceai.com/signup?ref=VYCE_HZ3N7M",
+      "signup": null,
+      "invite": 10,
+      "checkin": null,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub"
+      ],
+      "online": true,
+      "latencyMs": 3936,
+      "registerOpen": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:15:32.757Z"
+    },
+    {
+      "id": "arena-hero",
+      "name": "Arena Hero",
+      "homeUrl": "https://app.arenahero.io/arena",
+      "signupUrl": "https://app.arenahero.io/arena",
+      "signup": null,
+      "invite": null,
+      "checkin": null,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub"
+      ],
+      "online": true,
+      "latencyMs": 305,
+      "registerOpen": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:15:32.837Z"
+    },
+    {
+      "id": "cheapcodex",
+      "name": "CheapCodex",
+      "homeUrl": "https://api.cheapcodex.online",
+      "signupUrl": "https://api.cheapcodex.online/register?aff=U7SSQZSDB36S",
+      "signup": null,
+      "invite": 20,
+      "checkin": 20,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-coding-welfare"
+      ],
+      "online": true,
+      "latencyMs": 1607,
+      "registerOpen": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:34:52.109Z"
+    },
+    {
+      "id": "rawchat",
+      "name": "RawChat 公益站",
+      "homeUrl": "https://new.sharedchat.cc/list/",
+      "signupUrl": "https://new.sharedchat.cc/list/#/register?i=MaVP1",
+      "signup": null,
+      "invite": null,
+      "checkin": null,
+      "unit": "$",
+      "recommended": false,
+      "sources": [
+        "ai-welfare-hub",
+        "ai-coding-welfare"
+      ],
+      "online": false,
+      "latencyMs": 6,
+      "registerOpen": true,
+      "checkinEnabled": null,
+      "loginMethods": [
+        "邮箱"
+      ],
+      "mirrors": [],
+      "checkedAt": "2026-09-12T20:34:55.763Z"
+    }
+  ],
+  "official": [
+    {
+      "name": "Gemini CLI",
+      "free": "60 次/分 · 1000 次/天，Gemini 3，不绑卡",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "note": "README 原文核实"
+    },
+    {
+      "name": "OpenRouter :free",
+      "free": "20 RPM；充 ≥$10 后 1000 次/天终身",
+      "url": "https://openrouter.ai",
+      "note": "官方限制页核实"
+    },
+    {
+      "name": "Cloudflare Workers AI",
+      "free": "10,000 neurons/天，UTC 零点重置",
+      "url": "https://developers.cloudflare.com/workers-ai/",
+      "note": "官方 pricing 核实"
+    },
+    {
+      "name": "Cerebras",
+      "free": "注册送 $5 credits，全模型",
+      "url": "https://cerebras.ai",
+      "note": "官方 pricing 核实"
+    },
+    {
+      "name": "智谱 GLM",
+      "free": "新用户 2000 万 token 永久；GLM-4-Flash 免费无上限",
+      "url": "https://open.bigmodel.cn",
+      "note": "二手（论坛盘点），登录自查"
+    },
+    {
+      "name": "火山引擎豆包",
+      "free": "每日 200 万 token（限自有业务）",
+      "url": "https://www.volcengine.com",
+      "note": "二手，登录自查"
+    },
+    {
+      "name": "阿里云百炼",
+      "free": "每模型 100 万 token（90 天活动）",
+      "url": "https://help.aliyun.com/zh/model-studio/new-free-quota",
+      "note": "官方文档核实"
+    },
+    {
+      "name": "ModelScope",
+      "free": "api-inference 约 2000 次/天",
+      "url": "https://modelscope.cn",
+      "note": "口径未二次核实"
+    },
+    {
+      "name": "Kiro Free (AWS)",
+      "free": "50 credits/月，含 Claude Sonnet 4.5，不绑卡",
+      "url": "https://kiro.dev/pricing",
+      "note": "官方 pricing 核实"
+    },
+    {
+      "name": "GitHub Copilot Free",
+      "free": "2000 补全 + 50 chat/月，Claude/GPT-5 mini 自动分配",
+      "url": "https://github.com/features/copilot/plans",
+      "note": "官方页核实"
+    },
+    {
+      "name": "chatanywhere",
+      "free": "每周 5 万点 + 每日 100 次（GPT/DeepSeek）",
+      "url": "https://github.com/chatanywhere/GPT_API_free",
+      "note": "官方 README 核实"
+    }
+  ],
+  "intel": [
+    {
+      "name": "linux.do 公益推广标签",
+      "url": "https://linux.do/tag/1515-tag/1515",
+      "type": "公益站一手主帖（需登录）"
+    },
+    {
+      "name": "ai-welfare-hub live.json",
+      "url": "https://github.com/wynx1123/ai-welfare-hub",
+      "type": "每 6h 自动探活"
+    },
+    {
+      "name": "ai-coding-welfare",
+      "url": "https://github.com/panxunying/ai-coding-welfare",
+      "type": "日更导航 + RSS"
+    },
+    {
+      "name": "cheahjs/free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "type": "国际免费 API 总表 29k star"
+    },
+    {
+      "name": "r/LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/",
+      "type": "限额变动第一时间情报"
+    },
+    {
+      "name": "@iBigQiang 强子手记",
+      "url": "https://x.com/iBigQiang",
+      "type": "公益站实测（带轻 aff）"
+    },
+    {
+      "name": "HN Algolia 搜 free credits",
+      "url": "https://hn.algolia.com/?q=free+credits",
+      "type": "创始人 promo code"
+    }
+  ],
+  "stats": {
+    "total": 18,
+    "online": 17
+  }
+}
