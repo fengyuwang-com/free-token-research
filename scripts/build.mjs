@@ -1,4 +1,4 @@
-// 每日聚合两个公益站探活 hub 的 live/sites 数据，生成 site/data.json 快照
+// 每日聚合两个公益站探活 hub 的 live/sites 数据，生成 docs/data.json 快照
 // 用法: node scripts/build.mjs  (由 .github/workflows/daily.yml 定时调用)
 import { writeFileSync } from "node:fs";
 
@@ -100,5 +100,5 @@ const data = {
   },
 };
 
-writeFileSync("site/data.json", JSON.stringify(data, null, 2));
-console.log(`site/data.json written: ${data.stats.online}/${data.stats.total} stations online`);
+writeFileSync("docs/data.json", JSON.stringify(data, null, 2));
+console.log(`docs/data.json written: ${data.stats.online}/${data.stats.total} stations online`);

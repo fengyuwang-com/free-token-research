@@ -19,9 +19,9 @@ jobs:
         run: |
           git config user.name "refresh-bot"
           git config user.email "bot@users.noreply.github.com"
-          if git diff --quiet -- site/data.json; then
+          if git diff --quiet -- docs/data.json; then
             echo "no changes"; exit 0
           fi
-          git add site/data.json
+          git add docs/data.json
           git commit -m "data: refresh snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
