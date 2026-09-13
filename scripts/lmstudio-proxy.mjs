@@ -22,6 +22,17 @@ function mergeSystem(messages) {
   return [{ role: "system", content }, ...rest];
 }
 
+// 关闭思考：在最后一条 user 后面预填一个空的 <think> 块，
+// Qwen3 系列会直接跳过思考输出答案（省时间省 token）。
+function skipThinking(messages) {
+  if (!Array.isArray(messages) || messages.length === 0) return messages;
+  const last = messages[messages.length - 1];
+  if (last.role === "user" && !messages.some((m) => m.role === "assistant" && String(m.content).includes("<think>"))) {
+    return [...messages, { role: "assistant", content: "<think>\n\n</think>\n\n" }];
+  }
+  return messages;
+}
+
 const server = http.createServer((req, res) => {
   let body = [];
   req.on("data", (c) => body.push(c));
@@ -32,7 +43,9 @@ const server = http.createServer((req, res) => {
       try {
         const j = JSON.parse(raw);
         if (j.messages) {
-          j.messages = mergeSystem(j.messages);
+          const nSys = j.messages.filter((m) => m.role === "system" || m.role === "developer").length;
+          console.log(new Date().toISOString(), req.url, `${j.messages.length} msgs, ${nSys} system -> merged`);
+          j.messages = skipThinking(mergeSystem(j.messages));
           out = Buffer.from(JSON.stringify(j));
         }
       } catch { /* 非 JSON 请求原样转发 */ }
