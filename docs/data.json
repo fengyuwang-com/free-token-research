@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T08:53:52.154Z",
+  "generatedAt": "2026-09-28T20:41:09.607Z",
   "hubSources": [
     {
       "source": "ai-welfare-hub",
@@ -25,12 +25,12 @@
         "ai-welfare-hub"
       ],
       "online": true,
-      "latencyMs": 447,
+      "latencyMs": 432,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T04:01:52.875Z"
+      "checkedAt": "2026-09-28T13:05:02.953Z"
     },
     {
       "id": "conduit",
@@ -46,12 +46,12 @@
         "ai-welfare-hub"
       ],
       "online": true,
-      "latencyMs": 1586,
+      "latencyMs": 1909,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T04:01:57.674Z"
+      "checkedAt": "2026-09-28T13:05:09.850Z"
     },
     {
       "id": "agentrouter",
@@ -68,7 +68,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 338,
+      "latencyMs": 242,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [
@@ -81,7 +81,28 @@
           "online": false
         }
       ],
-      "checkedAt": "2026-09-28T05:26:53.851Z"
+      "checkedAt": "2026-09-28T15:41:42.902Z"
+    },
+    {
+      "id": "artbloom",
+      "name": "ArtBloom",
+      "homeUrl": "https://api.artbloom.tech",
+      "signupUrl": "https://api.artbloom.tech/signup?ref=PCTM2VCGUI",
+      "signup": 100,
+      "invite": null,
+      "checkin": null,
+      "unit": "$",
+      "recommended": true,
+      "sources": [
+        "ai-coding-welfare"
+      ],
+      "online": true,
+      "latencyMs": 806,
+      "registerOpen": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "mirrors": [],
+      "checkedAt": "2026-09-28T15:41:37.516Z"
     },
     {
       "id": "kktoken",
@@ -98,7 +119,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 1476,
+      "latencyMs": 1274,
       "registerOpen": true,
       "checkinEnabled": true,
       "loginMethods": [
@@ -106,7 +127,7 @@
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-09-28T05:26:48.785Z"
+      "checkedAt": "2026-09-28T15:41:38.068Z"
     },
     {
       "id": "anyrouter",
@@ -122,12 +143,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 204,
+      "latencyMs": 154,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T05:26:55.060Z"
+      "checkedAt": "2026-09-28T15:41:44.070Z"
     },
     {
       "id": "justdowork",
@@ -144,7 +165,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 669,
+      "latencyMs": 658,
       "registerOpen": true,
       "checkinEnabled": true,
       "loginMethods": [
@@ -152,7 +173,7 @@
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-09-28T05:26:47.974Z"
+      "checkedAt": "2026-09-28T15:41:37.448Z"
     },
     {
       "id": "docode",
@@ -169,7 +190,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 908,
+      "latencyMs": 814,
       "registerOpen": true,
       "checkinEnabled": false,
       "loginMethods": [
@@ -181,7 +202,7 @@
           "online": true
         }
       ],
-      "checkedAt": "2026-09-28T05:26:48.214Z"
+      "checkedAt": "2026-09-28T15:41:37.604Z"
     },
     {
       "id": "nofx",
@@ -198,12 +219,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 3276,
+      "latencyMs": 2488,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T05:26:50.588Z"
+      "checkedAt": "2026-09-28T15:41:39.286Z"
     },
     {
       "id": "flushapi",
@@ -219,7 +240,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 1107,
+      "latencyMs": 1348,
       "registerOpen": true,
       "checkinEnabled": true,
       "loginMethods": [
@@ -227,7 +248,7 @@
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-09-28T05:26:48.430Z"
+      "checkedAt": "2026-09-28T15:41:38.144Z"
     },
     {
       "id": "long-ai",
@@ -243,7 +264,7 @@
         "ai-welfare-hub"
       ],
       "online": true,
-      "latencyMs": 443,
+      "latencyMs": 193,
       "registerOpen": true,
       "checkinEnabled": false,
       "loginMethods": [
@@ -251,7 +272,7 @@
         "邮箱 + 密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-09-28T04:01:56.952Z"
+      "checkedAt": "2026-09-28T13:05:09.511Z"
     },
     {
       "id": "rawchat",
@@ -268,12 +289,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 183,
+      "latencyMs": 411,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T04:01:49.992Z"
+      "checkedAt": "2026-09-28T13:05:00.741Z"
     },
     {
       "id": "matrix",
@@ -290,12 +311,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 1923,
+      "latencyMs": 2545,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T05:26:49.232Z"
+      "checkedAt": "2026-09-28T15:41:39.341Z"
     },
     {
       "id": "seekai",
@@ -311,12 +332,12 @@
         "ai-welfare-hub"
       ],
       "online": true,
-      "latencyMs": 263,
+      "latencyMs": 186,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T04:01:53.627Z"
+      "checkedAt": "2026-09-28T13:05:03.355Z"
     },
     {
       "id": "vsllm",
@@ -332,7 +353,7 @@
         "ai-welfare-hub"
       ],
       "online": true,
-      "latencyMs": 208,
+      "latencyMs": 120,
       "registerOpen": null,
       "checkinEnabled": true,
       "loginMethods": [
@@ -340,7 +361,7 @@
         "OIDC"
       ],
       "mirrors": [],
-      "checkedAt": "2026-09-28T04:01:54.603Z"
+      "checkedAt": "2026-09-28T13:05:04.300Z"
     },
     {
       "id": "true-sota",
@@ -356,12 +377,12 @@
         "ai-welfare-hub"
       ],
       "online": true,
-      "latencyMs": 177,
+      "latencyMs": 123,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T04:01:55.232Z"
+      "checkedAt": "2026-09-28T13:05:05.101Z"
     },
     {
       "id": "hcnsec",
@@ -377,7 +398,7 @@
         "ai-welfare-hub"
       ],
       "online": true,
-      "latencyMs": 881,
+      "latencyMs": 2711,
       "registerOpen": true,
       "checkinEnabled": true,
       "loginMethods": [
@@ -385,7 +406,7 @@
         "邮箱 + 密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-09-28T04:01:55.438Z"
+      "checkedAt": "2026-09-28T13:05:05.333Z"
     },
     {
       "id": "vyceai",
@@ -401,12 +422,12 @@
         "ai-welfare-hub"
       ],
       "online": true,
-      "latencyMs": 2277,
+      "latencyMs": 2782,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T04:01:55.914Z"
+      "checkedAt": "2026-09-28T13:05:05.686Z"
     },
     {
       "id": "chatanywhere",
@@ -422,12 +443,12 @@
         "ai-welfare-hub"
       ],
       "online": true,
-      "latencyMs": 413,
+      "latencyMs": 834,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T04:01:56.094Z"
+      "checkedAt": "2026-09-28T13:05:08.578Z"
     },
     {
       "id": "arena-hero",
@@ -443,12 +464,12 @@
         "ai-welfare-hub"
       ],
       "online": true,
-      "latencyMs": 496,
+      "latencyMs": 510,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T04:01:58.253Z"
+      "checkedAt": "2026-09-28T13:05:09.903Z"
     },
     {
       "id": "mirasim",
@@ -464,12 +485,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 718,
+      "latencyMs": 743,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T05:26:48.020Z"
+      "checkedAt": "2026-09-28T15:41:37.531Z"
     },
     {
       "id": "cheapcodex",
@@ -485,12 +506,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 2616,
+      "latencyMs": 2052,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T05:26:49.927Z"
+      "checkedAt": "2026-09-28T15:41:38.849Z"
     },
     {
       "id": "tabitoken",
@@ -512,7 +533,7 @@
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T04:01:50.522Z"
+      "checkedAt": "2026-09-28T13:05:01.259Z"
     },
     {
       "id": "gorouter",
@@ -534,7 +555,7 @@
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-09-28T04:01:51.823Z"
+      "checkedAt": "2026-09-28T13:05:01.391Z"
     }
   ],
   "official": [
@@ -643,7 +664,7 @@
     }
   ],
   "stats": {
-    "total": 23,
-    "online": 21
+    "total": 24,
+    "online": 22
   }
 }
