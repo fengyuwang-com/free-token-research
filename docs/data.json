@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T09:42:38.795Z",
+  "generatedAt": "2026-11-06T20:30:12.043Z",
   "hubSources": [
     {
       "source": "ai-welfare-hub",
@@ -69,7 +69,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 318,
+      "latencyMs": 247,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [
@@ -82,7 +82,7 @@
           "online": false
         }
       ],
-      "checkedAt": "2026-11-06T06:50:56.737Z"
+      "checkedAt": "2026-11-06T19:26:15.829Z"
     },
     {
       "id": "happycode",
@@ -98,7 +98,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 770,
+      "latencyMs": 1156,
       "registerOpen": true,
       "checkinEnabled": null,
       "loginMethods": [
@@ -106,7 +106,7 @@
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-11-06T06:50:51.178Z"
+      "checkedAt": "2026-11-06T19:26:10.557Z"
     },
     {
       "id": "kktoken",
@@ -123,7 +123,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 2967,
+      "latencyMs": 2992,
       "registerOpen": true,
       "checkinEnabled": true,
       "loginMethods": [
@@ -131,7 +131,7 @@
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-11-06T06:50:53.219Z"
+      "checkedAt": "2026-11-06T19:26:12.335Z"
     },
     {
       "id": "anyrouter",
@@ -147,12 +147,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 172,
+      "latencyMs": 157,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-06T06:50:57.893Z"
+      "checkedAt": "2026-11-06T19:26:17.334Z"
     },
     {
       "id": "docode",
@@ -169,7 +169,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 611,
+      "latencyMs": 766,
       "registerOpen": true,
       "checkinEnabled": false,
       "loginMethods": [
@@ -181,7 +181,7 @@
           "online": true
         }
       ],
-      "checkedAt": "2026-11-06T06:50:50.870Z"
+      "checkedAt": "2026-11-06T19:26:10.077Z"
     },
     {
       "id": "wanjiadenghuo",
@@ -197,14 +197,14 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 602,
+      "latencyMs": 1006,
       "registerOpen": true,
       "checkinEnabled": null,
       "loginMethods": [
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-11-06T06:50:50.915Z"
+      "checkedAt": "2026-11-06T19:26:10.346Z"
     },
     {
       "id": "nofx",
@@ -221,12 +221,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 2722,
+      "latencyMs": 4085,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-06T06:50:52.974Z"
+      "checkedAt": "2026-11-06T19:26:13.429Z"
     },
     {
       "id": "primerelay",
@@ -242,12 +242,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 1007,
+      "latencyMs": 1555,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-06T06:50:51.253Z"
+      "checkedAt": "2026-11-06T19:26:10.895Z"
     },
     {
       "id": "codex-relay",
@@ -263,12 +263,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 1323,
+      "latencyMs": 7103,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-06T06:50:51.571Z"
+      "checkedAt": "2026-11-06T19:26:16.444Z"
     },
     {
       "id": "long-ai",
@@ -331,12 +331,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 1855,
+      "latencyMs": 2244,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-06T06:50:52.105Z"
+      "checkedAt": "2026-11-06T19:26:11.585Z"
     },
     {
       "id": "vsllm",
