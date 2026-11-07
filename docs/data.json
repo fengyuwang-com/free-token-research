@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T20:30:12.043Z",
+  "generatedAt": "2026-11-07T09:05:15.333Z",
   "hubSources": [
     {
       "source": "ai-welfare-hub",
@@ -69,7 +69,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 247,
+      "latencyMs": 320,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [
@@ -82,7 +82,7 @@
           "online": false
         }
       ],
-      "checkedAt": "2026-11-06T19:26:15.829Z"
+      "checkedAt": "2026-11-07T06:00:21.101Z"
     },
     {
       "id": "happycode",
@@ -98,7 +98,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 1156,
+      "latencyMs": 975,
       "registerOpen": true,
       "checkinEnabled": null,
       "loginMethods": [
@@ -106,7 +106,7 @@
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-11-06T19:26:10.557Z"
+      "checkedAt": "2026-11-07T06:00:15.539Z"
     },
     {
       "id": "kktoken",
@@ -123,7 +123,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 2992,
+      "latencyMs": 3214,
       "registerOpen": true,
       "checkinEnabled": true,
       "loginMethods": [
@@ -131,7 +131,7 @@
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-11-06T19:26:12.335Z"
+      "checkedAt": "2026-11-07T06:00:17.594Z"
     },
     {
       "id": "anyrouter",
@@ -147,12 +147,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 157,
+      "latencyMs": 199,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-06T19:26:17.334Z"
+      "checkedAt": "2026-11-07T06:00:22.318Z"
     },
     {
       "id": "docode",
@@ -169,7 +169,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 766,
+      "latencyMs": 724,
       "registerOpen": true,
       "checkinEnabled": false,
       "loginMethods": [
@@ -181,7 +181,7 @@
           "online": true
         }
       ],
-      "checkedAt": "2026-11-06T19:26:10.077Z"
+      "checkedAt": "2026-11-07T06:00:15.125Z"
     },
     {
       "id": "wanjiadenghuo",
@@ -197,14 +197,14 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 1006,
+      "latencyMs": 942,
       "registerOpen": true,
       "checkinEnabled": null,
       "loginMethods": [
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-11-06T19:26:10.346Z"
+      "checkedAt": "2026-11-07T06:00:15.482Z"
     },
     {
       "id": "nofx",
@@ -221,12 +221,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 4085,
+      "latencyMs": 2611,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-06T19:26:13.429Z"
+      "checkedAt": "2026-11-07T06:00:16.990Z"
     },
     {
       "id": "primerelay",
@@ -242,12 +242,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 1555,
+      "latencyMs": 1056,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-06T19:26:10.895Z"
+      "checkedAt": "2026-11-07T06:00:15.431Z"
     },
     {
       "id": "codex-relay",
@@ -263,12 +263,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 7103,
+      "latencyMs": 1267,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-06T19:26:16.444Z"
+      "checkedAt": "2026-11-07T06:00:15.643Z"
     },
     {
       "id": "long-ai",
@@ -331,12 +331,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 2244,
+      "latencyMs": 1964,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-06T19:26:11.585Z"
+      "checkedAt": "2026-11-07T06:00:16.342Z"
     },
     {
       "id": "vsllm",
