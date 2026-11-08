@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T23:49:35.048Z",
+  "generatedAt": "2026-11-08T09:23:47.556Z",
   "hubSources": [
     {
       "source": "ai-welfare-hub",
@@ -139,7 +139,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 314,
+      "latencyMs": 238,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [
@@ -152,7 +152,7 @@
           "online": false
         }
       ],
-      "checkedAt": "2026-11-07T21:52:55.102Z"
+      "checkedAt": "2026-11-08T06:04:22.926Z"
     },
     {
       "id": "grox",
@@ -210,7 +210,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 716,
+      "latencyMs": 614,
       "registerOpen": true,
       "checkinEnabled": null,
       "loginMethods": [
@@ -218,7 +218,7 @@
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-11-07T21:52:49.517Z"
+      "checkedAt": "2026-11-08T06:04:17.380Z"
     },
     {
       "id": "anyrouter",
@@ -234,12 +234,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 173,
+      "latencyMs": 142,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-07T21:52:56.402Z"
+      "checkedAt": "2026-11-08T06:04:23.618Z"
     },
     {
       "id": "kktoken",
@@ -255,7 +255,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 3149,
+      "latencyMs": 2247,
       "registerOpen": true,
       "checkinEnabled": true,
       "loginMethods": [
@@ -263,7 +263,7 @@
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-11-07T21:52:51.802Z"
+      "checkedAt": "2026-11-08T06:04:19.010Z"
     },
     {
       "id": "docode",
@@ -280,7 +280,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 522,
+      "latencyMs": 508,
       "registerOpen": true,
       "checkinEnabled": false,
       "loginMethods": [
@@ -292,7 +292,7 @@
           "online": true
         }
       ],
-      "checkedAt": "2026-11-07T21:52:49.160Z"
+      "checkedAt": "2026-11-08T06:04:17.243Z"
     },
     {
       "id": "juziai",
@@ -332,14 +332,14 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 591,
+      "latencyMs": 551,
       "registerOpen": true,
       "checkinEnabled": null,
       "loginMethods": [
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-11-07T21:52:49.307Z"
+      "checkedAt": "2026-11-08T06:04:17.318Z"
     },
     {
       "id": "bohe",
@@ -379,12 +379,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 3338,
+      "latencyMs": 1909,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-07T21:52:51.991Z"
+      "checkedAt": "2026-11-08T06:04:18.672Z"
     },
     {
       "id": "xinjianya",
@@ -470,12 +470,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 951,
+      "latencyMs": 1081,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-07T21:52:49.599Z"
+      "checkedAt": "2026-11-08T06:04:17.838Z"
     },
     {
       "id": "budsin",
@@ -515,12 +515,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 1155,
+      "latencyMs": 1245,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-07T21:52:49.805Z"
+      "checkedAt": "2026-11-08T06:04:18.003Z"
     },
     {
       "id": "long-ai",
@@ -606,12 +606,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 1842,
+      "latencyMs": 1389,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-07T21:52:50.492Z"
+      "checkedAt": "2026-11-08T06:04:18.148Z"
     },
     {
       "id": "vsllm",
