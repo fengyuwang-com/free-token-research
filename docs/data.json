@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T22:14:09.218Z",
+  "generatedAt": "2026-11-19T10:39:30.055Z",
   "hubSources": [
     {
       "source": "ai-welfare-hub",
@@ -46,12 +46,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 703,
+      "latencyMs": 684,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-18T20:33:43.422Z"
+      "checkedAt": "2026-11-19T07:28:35.870Z"
     },
     {
       "id": "conduit",
@@ -139,7 +139,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 303,
+      "latencyMs": 318,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [
@@ -152,7 +152,7 @@
           "online": false
         }
       ],
-      "checkedAt": "2026-11-18T20:33:49.420Z"
+      "checkedAt": "2026-11-19T07:28:41.738Z"
     },
     {
       "id": "grox",
@@ -210,7 +210,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 2037,
+      "latencyMs": 1569,
       "registerOpen": true,
       "checkinEnabled": null,
       "loginMethods": [
@@ -218,7 +218,7 @@
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-11-18T20:33:44.975Z"
+      "checkedAt": "2026-11-19T07:28:36.936Z"
     },
     {
       "id": "anyrouter",
@@ -234,12 +234,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 203,
+      "latencyMs": 179,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-18T20:33:49.876Z"
+      "checkedAt": "2026-11-19T07:28:41.843Z"
     },
     {
       "id": "docode",
@@ -256,7 +256,7 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 1581,
+      "latencyMs": 1474,
       "registerOpen": true,
       "checkinEnabled": false,
       "loginMethods": [
@@ -268,7 +268,7 @@
           "online": true
         }
       ],
-      "checkedAt": "2026-11-18T20:33:44.475Z"
+      "checkedAt": "2026-11-19T07:28:36.809Z"
     },
     {
       "id": "juziai",
@@ -308,14 +308,14 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 2216,
+      "latencyMs": 2246,
       "registerOpen": true,
       "checkinEnabled": null,
       "loginMethods": [
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-11-18T20:33:45.032Z"
+      "checkedAt": "2026-11-19T07:28:37.596Z"
     },
     {
       "id": "bohe",
@@ -446,12 +446,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 2132,
+      "latencyMs": 1740,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-18T20:33:44.860Z"
+      "checkedAt": "2026-11-19T07:28:36.933Z"
     },
     {
       "id": "codex-relay",
@@ -467,12 +467,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 2115,
+      "latencyMs": 2065,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-18T20:33:44.844Z"
+      "checkedAt": "2026-11-19T07:28:37.259Z"
     },
     {
       "id": "long-ai",
@@ -558,12 +558,12 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 2768,
+      "latencyMs": 2647,
       "registerOpen": null,
       "checkinEnabled": null,
       "loginMethods": [],
       "mirrors": [],
-      "checkedAt": "2026-11-18T20:33:45.499Z"
+      "checkedAt": "2026-11-19T07:28:37.842Z"
     },
     {
       "id": "vsllm",
@@ -1426,14 +1426,14 @@
         "ai-coding-welfare"
       ],
       "online": true,
-      "latencyMs": 2496,
+      "latencyMs": 2582,
       "registerOpen": true,
       "checkinEnabled": false,
       "loginMethods": [
         "账号密码"
       ],
       "mirrors": [],
-      "checkedAt": "2026-11-18T20:33:45.230Z"
+      "checkedAt": "2026-11-19T07:28:37.778Z"
     },
     {
       "id": "iamhc",
